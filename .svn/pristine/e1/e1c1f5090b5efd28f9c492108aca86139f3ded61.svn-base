@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    tools:context="com.hungary.norbcorp.contactmanager.MainActivity"
+    tools:ignore="MergeRootFrame" />
+<!--
+ <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment"
+    android:name="com.hungary.norbcorp.sunshine.MainActivityFragment"
+    tools:layout="@layout/fragment_main" android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+    -->
+
+<!-- From: file:/C:/Users/nor/AndroidStudioProjects/ContactManager/app/src/main/res/layout/activity_main.xml -->

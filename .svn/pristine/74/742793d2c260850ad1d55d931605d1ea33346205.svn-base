@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-b2d17dfc8cbbf29e55669f3055aa2049bb82c9bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\classes-1602711ec17a0fde4b44a648f8c8e6cfbcfa2356.jar" />
+    </item>
+    <item
+        jar="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-80e5671fd69d6cef172dd01cd5c7e85394028a22.jar" />
+    </item>
+    <item
+        jar="C:\Users\nor\AndroidStudioProjects\ContactManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\ContactManager\app\build\intermediates\pre-dexed\debug\classes-5bde737d81a32cb9943b202f640a12df491d5fbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\nor\AndroidStudioProjects\ContactManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\ContactManager\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-28d5fe3d0c016a85df2ae3465af0e27340e6c3bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\nor\AndroidStudioProjects\ContactManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\ContactManager\app\build\intermediates\pre-dexed\debug\classes-8d2972dd577c938c2cb1ab888c5840ea2e52b917.jar" />
+    </item>
+    <item
+        jar="D:\IDEs\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\nor\AndroidStudioProjects\Sunshine\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-377f965b137934b25977843c921654ebae7d58a1.jar" />
+    </item>
+
+</items>
